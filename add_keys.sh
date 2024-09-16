@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of the public keys file in your GitHub repo
-KEYS_URL="https://raw.githubusercontent.com/wifientist/main/pubkeys"
+KEYS_URL="https://raw.githubusercontent.com/wifientist/rwg/main/pubkeys"
 
 # Path to the authorized_keys file
 AUTHORIZED_KEYS="$HOME/.ssh/authorized_keys"
